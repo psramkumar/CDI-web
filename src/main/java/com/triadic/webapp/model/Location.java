@@ -1,4 +1,4 @@
-package com.packtpub.pf.blueprint.model;
+package com.triadic.webapp.model;
 
 import lombok.Data;
 import org.hibernate.annotations.NaturalId;

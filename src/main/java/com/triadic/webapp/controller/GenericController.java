@@ -1,4 +1,4 @@
-package com.packtpub.pf.blueprint.controller;
+package com.triadic.webapp.controller;
 
 import lombok.Data;
 import org.primefaces.event.SelectEvent;

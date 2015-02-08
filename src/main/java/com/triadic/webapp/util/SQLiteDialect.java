@@ -1,4 +1,4 @@
-package com.packtpub.pf.blueprint.util;
+package com.triadic.webapp.util;
 /*
  * The author disclaims copyright to this source code. In place of
  * a legal notice, here is a blessing:

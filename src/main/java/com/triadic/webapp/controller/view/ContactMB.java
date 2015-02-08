@@ -1,4 +1,4 @@
-package com.packtpub.pf.blueprint.controller.view;
+package com.triadic.webapp.controller.view;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -9,10 +9,10 @@ import javax.faces.context.FacesContext;
 import javax.inject.Inject;
 import javax.inject.Named;
 
+import com.triadic.webapp.FacesUtil;
+import com.triadic.webapp.model.Contact;
 import lombok.Data;
-import com.packtpub.pf.blueprint.FacesUtil;
-import com.packtpub.pf.blueprint.model.Contact;
-import com.packtpub.pf.blueprint.persistence.ContactDAO;
+import com.triadic.webapp.persistence.ContactDAO;
 
 @Data
 @Named

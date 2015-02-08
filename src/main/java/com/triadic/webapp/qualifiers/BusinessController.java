@@ -1,4 +1,4 @@
-package com.packtpub.pf.blueprint.qualifiers;
+package com.triadic.webapp.qualifiers;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

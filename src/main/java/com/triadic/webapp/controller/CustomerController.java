@@ -1,9 +1,7 @@
-package com.packtpub.pf.blueprint.controller;
+package com.triadic.webapp.controller;
 
-import com.packtpub.pf.blueprint.model.Customer;
-import com.packtpub.pf.blueprint.persistence.CustomerDAO;
-import com.packtpub.pf.blueprint.qualifiers.BusinessController;
-import lombok.Data;
+import com.triadic.webapp.model.Customer;
+import com.triadic.webapp.persistence.CustomerDAO;
 import lombok.Getter;
 import lombok.Setter;
 import org.apache.log4j.Logger;

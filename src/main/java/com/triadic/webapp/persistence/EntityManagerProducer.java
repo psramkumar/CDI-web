@@ -1,4 +1,4 @@
-package com.packtpub.pf.blueprint.persistence;
+package com.triadic.webapp.persistence;
 
 
 import javax.enterprise.inject.Produces;

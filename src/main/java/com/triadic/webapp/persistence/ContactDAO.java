@@ -1,4 +1,4 @@
-package com.packtpub.pf.blueprint.persistence;
+package com.triadic.webapp.persistence;
 
 import java.io.Serializable;
 import java.util.List;
@@ -10,8 +10,8 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityTransaction;
 import javax.persistence.Query;
 
-import com.packtpub.pf.blueprint.bean.GenericDAO;
-import com.packtpub.pf.blueprint.model.Contact;
+import com.triadic.webapp.bean.GenericDAO;
+import com.triadic.webapp.model.Contact;
 
 @Named
 @Singleton

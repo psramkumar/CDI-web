@@ -1,7 +1,7 @@
-package com.packtpub.pf.blueprint.persistence;
+package com.triadic.webapp.persistence;
 
-import com.packtpub.pf.blueprint.bean.GenericDAO;
-import com.packtpub.pf.blueprint.model.Customer;
+import com.triadic.webapp.bean.GenericDAO;
+import com.triadic.webapp.model.Customer;
 
 import javax.inject.Inject;
 import javax.inject.Named;

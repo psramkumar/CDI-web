@@ -1,4 +1,4 @@
-package com.packtpub.pf.blueprint;
+package com.triadic.webapp;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.enterprise.inject.Produces;

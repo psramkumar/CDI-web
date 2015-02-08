@@ -1,4 +1,4 @@
-package com.packtpub.pf.blueprint;
+package com.triadic.webapp;
 
 import javax.faces.application.FacesMessage;
 import javax.faces.context.FacesContext;

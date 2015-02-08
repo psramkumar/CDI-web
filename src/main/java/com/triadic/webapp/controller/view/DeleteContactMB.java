@@ -1,4 +1,4 @@
-package com.packtpub.pf.blueprint.controller.view;
+package com.triadic.webapp.controller.view;
 
 import java.io.Serializable;
 
@@ -6,7 +6,7 @@ import javax.enterprise.context.SessionScoped;
 import javax.inject.Inject;
 import javax.inject.Named;
 
-import com.packtpub.pf.blueprint.persistence.ContactDAO;
+import com.triadic.webapp.persistence.ContactDAO;
 
 @Named
 @SessionScoped

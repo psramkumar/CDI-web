@@ -1,7 +1,7 @@
-package com.packtpub.pf.blueprint.controller;
+package com.triadic.webapp.controller;
 
-import com.packtpub.pf.blueprint.model.Location;
-import com.packtpub.pf.blueprint.persistence.LocationDAO;
+import com.triadic.webapp.model.Location;
+import com.triadic.webapp.persistence.LocationDAO;
 import lombok.Getter;
 import lombok.Setter;
 import org.primefaces.event.map.OverlaySelectEvent;

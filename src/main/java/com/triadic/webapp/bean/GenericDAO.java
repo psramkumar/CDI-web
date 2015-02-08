@@ -1,4 +1,4 @@
-package com.packtpub.pf.blueprint.bean;
+package com.triadic.webapp.bean;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
